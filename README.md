@@ -1,50 +1,36 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://imgur.com/Vodulch", alt="">
+    <img src="https://i.imgur.com/Vodulch.jpeg" alt="lol" width="80" height="80">
   </a>
 
   <h3 align="center">Hej, I'm Luca 👋🏻</h3>
+  
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Python nonce
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Site</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
+    <h2 align="center"></h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=LucaAMB&theme=onedark" />
 
 <!-- Projects -->
 <details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
+  <summary>Projects</summary>
+  <ul>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Otium</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Otium is a social media forecasting tool developed for business</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
+  </ul>
 </details>
+
+<h2 align="center"></h2>
+
+![Metrics](https://metrics.lecoq.io/LucaAMB?template=classic&activity=1&languages=1&followup=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon&config.animated=true)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucaAMB&show_icons=true&theme=onedark" alt="LucaAMB" /></p>
+
