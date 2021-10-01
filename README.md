@@ -16,7 +16,7 @@
 <p align="center">
   Python nonce
   <br />
-  <a href="https://github.com/othneildrew/Best-README-Template"
+  <a href="#"
     ><strong>Site</strong></a
   >
 </p>
