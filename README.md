@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h3 align="center">Hej, I'm Luca 👋🏻</h3>
+<h3 align="center">Hi, I'm Luca 👋🏻</h3>
 
 <p align="center">
   Python nonce
