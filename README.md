@@ -1,7 +1,7 @@
 <!-- PROFILE -->
 <br />
 <p align="center">
-  <a href="https://imgur.com/Vodulch" , alt="">
+  <a href="https://i.imgur.com/uPppHBN.jpeg" , alt="">
     <img
       src="https://i.imgur.com/uPppHBN.jpeg"
       alt="lol"
