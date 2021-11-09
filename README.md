@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://imgur.com/Vodulch" , alt="">
     <img
-      src="https://i.imgur.com/Vodulch.jpeg"
+      src="https://i.imgur.com/uPppHBN.jpeg"
       alt="lol"
       width="80"
       height="80"
