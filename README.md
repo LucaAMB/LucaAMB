@@ -23,7 +23,7 @@
 
 <h2></h2>
 
-- 🔭 I’m currently working on Occasio
+- 🔭 I’m currently working on Mirari
 
 
 - 🌱 I’m currently learning Julia 
