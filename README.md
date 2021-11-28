@@ -38,11 +38,11 @@
   <summary>Projects</summary>
   <ul>
     <li>
-      <a href="#about-the-project">Otium</a>
+      <a href="#about-the-project">Mirari</a>
       <ul>
         <li>
           <a href="#built-with"
-            >Otium is a social media forecasting tool developed for business</a
+            >Mirari is a social media forecasting tool developed for business</a
           >
         </li>
       </ul>
