@@ -14,7 +14,7 @@
 <h3 align="center">Hi, I'm Luca 👋🏻</h3>
 
 <p align="center">
-  Python nonce
+  Coding
   <br />
   <a href="#"
     ><strong>Site</strong></a
@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on Mirari
 
 
-- 🌱 I’m currently learning Julia 
+- 🌱 I’m currently learning Julia and Haskell
 
 
 - 📫 How to reach me: Not sure yet
