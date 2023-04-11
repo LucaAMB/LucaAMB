@@ -23,13 +23,13 @@
 
 <h2></h2>
 
-- 🔭 I’m currently working on Mirari
+- 🔭 I’m currently working Royal Holloway Wine Society
 
 
-- 🌱 I’m currently learning Julia and Haskell
+- 🌱 I’m currently learning Java Script, Tensorflow and Django
 
 
-- 📫 How to reach me: Not sure yet
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/luca-melody-bamford/">LinkedIN</a>
 
 <h2></h2>
 
