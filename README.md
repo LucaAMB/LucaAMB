@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning Java Script, Tensorflow and Django
 
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/luca-melody-bamford/">LinkedIN</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/luca-melody-bamford/">LinkedIn</a>
 
 <h2></h2>
 
