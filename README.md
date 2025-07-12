@@ -14,9 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucaAMB&style=flat-square&color=blueviolet" alt="Visitors Counter"/>
-</p>
 
 ---
 
@@ -61,9 +58,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaAMB&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
   </a>
-</p>
-<p align="center">
-  ![Metrics](https://metrics.lecoq.io/LucaAMB?template=classic&activity=1&languages=1&followup=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon&config.animated=true)
 </p>
 
 ---
