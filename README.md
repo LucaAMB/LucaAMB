@@ -23,7 +23,7 @@
 
 <h2></h2>
 
-- 🔭 I’m currently working Royal Holloway Wine Society
+- 🔭 I’m currently working on something
 
 
 - 🌱 I’m currently learning Java Script, Tensorflow and Django
